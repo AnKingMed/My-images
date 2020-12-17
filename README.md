@@ -8,6 +8,6 @@
 
 
 
-<div><center>Check out our Anki Mastery Course!<br><a href="https://courses.ankipalace.com"><img src="https://raw.githubusercontent.com/AnKingMed/My-images/master/AnKing/AnkiPalace.png?raw=true"></a></center></div>
+<div><center><br><br><b>Check out our Anki Mastery Course!</b></center><br><center><a href="https://courses.ankipalace.com"><img src="https://raw.githubusercontent.com/AnKingMed/My-images/master/AnKing/AnkiPalace.png?raw=true"></a></center></div>
 
 
