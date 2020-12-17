@@ -8,7 +8,7 @@
 
 
 
-<div><center><br><br><b>              Check out our Anki Mastery Course!</b></center></div>
+<div><center><br><br><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Check out our Anki Mastery Course!</b></center></div>
 <div><center><a href="https://courses.ankipalace.com"><img src="https://raw.githubusercontent.com/AnKingMed/My-images/master/AnKing/AnkiPalace.png?raw=true"></a></center></div>
 
 
